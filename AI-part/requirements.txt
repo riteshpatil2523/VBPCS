@@ -1,0 +1,16 @@
+transformers 
+transformers[torch]
+azure-cognitiveservices-speech
+torch 
+scikit-learn 
+python-dotenv
+tensorflow
+tf-keras
+datasets
+deep-translator
+# vosk
+fastapi
+uvicorn[standard]
+python-multipart
+numpy
+pandas
